@@ -1,0 +1,5 @@
+# Ein Benutzername pro Zeile.
+# Leerzeilen und Zeilen, die mit # beginnen, werden übersprungen.
+nutzer01
+nutzer02
+nutzer03

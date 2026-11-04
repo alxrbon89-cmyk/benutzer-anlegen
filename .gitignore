@@ -1,0 +1,7 @@
+# Betriebssystem und Editoren
+.DS_Store
+*.swp
+*~
+
+# Eigene Listen mit echten Namen nicht versehentlich veröffentlichen
+*.local.txt
